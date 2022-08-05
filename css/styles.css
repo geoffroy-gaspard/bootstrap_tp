@@ -1,0 +1,16 @@
+.product_link {
+    text-decoration: none;
+    color: black;
+}
+
+.product_link:hover {
+    color: #28a745;
+}
+
+.basket:hover {
+    color: white;
+}
+
+.brand_name {
+    font-size: 2em;
+}
